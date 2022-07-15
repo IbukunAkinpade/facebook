@@ -1,0 +1,162 @@
+
+.content{
+    width: 1200px;
+    height: auto;
+    
+    margin: auto;
+    color:#1877F2;
+    padding-left: 200px;
+    padding-top: 150px;
+  
+position: relative;
+font-family:'Franklin Gothic Medium';
+font-size: 30px;
+background-color:
+#F0F2F5;
+
+
+
+
+}
+
+.content .par{
+    
+    padding-bottom: 300px;
+    
+    font-family: Arial;
+    line-height: 30px;
+    color: black;
+    font-size: 25px;
+}
+.form{
+    width: 300px;
+    height: 380px;
+    background-color: #FFFFFF;
+    
+    position: absolute;
+    top: 200px;
+    left: 870px;
+    
+    border-radius: 10px;
+    margin: 10px;
+    padding-left: 5px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.form input{
+    width: 300px;
+    height: 35px;
+    background: white;
+    border-bottom: 1px solid 
+    
+
+    #DADDE1;
+    border-top: 1px solid 
+
+    #DADDE1;
+    border-right: 1px solid 
+    
+#DADDE1;
+    border-left: 1px solid 
+    
+#DADDE1;
+    color: black;
+    font-size: 15px;
+    letter-spacing: 1px;
+    margin-top: 10px;
+    font-family: sans-serif;
+    border-radius: 5px;
+}
+.form input:focus{
+    outline: none;
+}
+
+::placeholder{
+    colour: #8A8D91;
+    font-family: arial;
+    font-size: small;
+
+}
+.btn{
+    width: 300px;
+    height: 35px;
+    background: #1877F2;
+    border: none;
+    margin-top: 10px;
+    margin-right: 10px;
+    font-size: 18px;
+    border-radius: 5px;
+    cursor: pointer;
+    color: #fff;
+    transition: 0.4s;
+}
+
+.btn:hover{
+    background: lightskyblue;
+    color: #8A8D91;
+
+}
+.btn a{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    
+}
+.bt{
+    width: 300px;
+    height: 35px;
+    background: none;
+    border: none;
+    margin-top: 10px;
+    font-size: 15px;
+    border-radius: 5px;
+    cursor:default;
+    color: #fff;
+    transition: 0.4s;
+    position: center;
+    border-bottom: 1px solid 
+
+    #DADDE1;
+
+}
+.bt a{
+    text-decoration: none;
+    color:#1877F2;
+    font-weight: light;
+}
+
+.btnn{
+    width: 230px;
+    height: 40px;
+    background: #42B72A;
+    border: none;
+    margin-top: 10px;
+    margin-left: 35px;
+    margin-right: 35px;
+    font-size: 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    color: #fff;
+    transition: 0.4s;
+    position: relative;
+   
+}
+.btnn a{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+
+.btnn :hover{
+background: green;
+color: #8A8D91;
+}
+
+.info{
+    position:absolute;
+    left: 890px;
+    top: 620px;
+    border-radius: 10px;
+    margin: 1px;  
+}
